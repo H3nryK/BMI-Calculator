@@ -29,6 +29,8 @@ This is a simple BMI (Body Mass Index) calculator implemented in Python with a g
 4. Enter your weight and height, then click "Calculate BMI" to see the results.
 
 ## Screenshots
+![Screenshot 1](graph.png)
+![Screenshot 2](calc.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
